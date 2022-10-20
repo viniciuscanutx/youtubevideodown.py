@@ -60,5 +60,5 @@ while True:
             sg.popup_ok('Escolha uma das opções ou Insira um link!', icon='Images/igm.ico')  
             
 
-#Fechamento de popup
-popup.close()
+       #Fechamento de popup
+       popup.close()
