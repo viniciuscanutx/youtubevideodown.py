@@ -9,7 +9,7 @@ Basta selecionar nas boxes se você deseja baixar o vídeo ou somente o áudio d
 
 
 <p align="center">
-  <img height=300 src="/img/Screenshot_1.png" >
+  <img height=200 src="/img/Screenshot_1.png" >
   <br>
   <i>Em funcionamento </i>
 </p>
