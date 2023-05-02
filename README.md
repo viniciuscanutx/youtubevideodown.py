@@ -1,11 +1,11 @@
 # Youtube Downloader
-Um baixador de músicas ou vídeos do youtube, você pode baixar qualquer arquivo, em qualquer instante.
+### Um baixador de músicas ou vídeos do youtube, você pode baixar qualquer arquivo, em qualquer instante.
 
 
-Uso:
+## Uso:
 
 
-Basta selecionar nas boxes se você deseja baixar o vídeo ou somente o áudio do link, procurar o diretório em que deseja salvar (em branco ele irá salvar na mesma pasta em que o programa está) e clicar em download!
+### Basta selecionar nas boxes se você deseja baixar o vídeo ou somente o áudio do link, procurar o diretório em que deseja salvar (em branco ele irá salvar na mesma pasta em que o programa está) e clicar em download!
 
 
 ## Git
@@ -17,3 +17,8 @@ Git clone
   <br>
   <i>Em funcionamento </i>
 </p>
+
+## Bibliotecas
+
+
+### PySimpleGUI e Pyvid 
